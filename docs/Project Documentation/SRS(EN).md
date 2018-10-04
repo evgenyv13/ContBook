@@ -26,7 +26,7 @@ To solve this problem, this web application was created.
 #### 2.1\. Software Interfaces <a name="2.1"></a>
 The project uses the Spring MVC framework and does not interact with external systems and services.
 #### 2.2\. User Interfaces <a name="2.2"></a>
-The graphical interface of the project is presented using the mocaps [home page](https://raw.githubusercontent.com/evgenyv13/TRiTPO/master/LR2/ContactBook/docs/Project%20Documentation/mockups/mainpage.png) and [contact edit page](https://raw.githubusercontent.com/evgenyv13/TRiTPO/master/LR2/ContactBook/docs/Project%20Documentation/mockups/editpage.png).
+The graphical interface of the project is presented using the mocaps [home page](https://raw.githubusercontent.com/evgenyv13/ContBook/master/docs/Project%20Documentation/mockups/mainpage.png) and [contact edit page](https://raw.githubusercontent.com/evgenyv13/ContBook/master/docs/Project%20Documentation/mockups/editpage.png).
 The main window requires a separate view:
 
 Button | Event
