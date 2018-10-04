@@ -26,7 +26,7 @@
 #### 2.1. Программные интерфейсы <a name="2.1"></a>
 Проект использует фреймворк Spring MVC и не взаимодействует с внешними системами и сервисами.
 #### 2.2. Интерфейс пользователя <a name="2.2"></a>
-Графический интерфейс проекта представлен с помощью мокапов [главной страницы](https://raw.githubusercontent.com/evgenyv13/TRiTPO/master/LR2/ContactBook/docs/Project%20Documentation/mockups/mainpage.png) и [страницы редактирования и просмотра контакта](https://raw.githubusercontent.com/evgenyv13/TRiTPO/master/LR2/ContactBook/docs/Project%20Documentation/mockups/editpage.png).
+Графический интерфейс проекта представлен с помощью мокапов [главной страницы](https://raw.githubusercontent.com/evgenyv13/ContBook/master/docs/Project%20Documentation/mockups/mainpage.png) и [страницы редактирования и просмотра контакта](https://raw.githubusercontent.com/evgenyv13/ContBook/master/docs/Project%20Documentation/mockups/editpage.png).
 Отдельного рассмотрения требует главная страница:
 
 Кнопка | Реакция
