@@ -60,5 +60,7 @@
 
 ### 5. Диаграмма классов<a name="5"></a>
 
+![Class](https://github.com/evgenyv13/ContBook/blob/master/docs/Project%20Documentation/UMLDiagrams/IMG/classDiagram.png)
+
 ### 6. Диаграмма развертывания и компонентов<a name="6"></a>
 
