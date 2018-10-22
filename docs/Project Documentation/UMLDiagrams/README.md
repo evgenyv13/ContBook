@@ -67,5 +67,6 @@
 ### 6. Диаграмма развертывания и компонентов<a name="6"></a>
 
 Диаграмма развёртывания и компонентов представляет собой следующую диаграмму: 
+
 ![Deployment](https://github.com/evgenyv13/ContBook/blob/master/docs/Project%20Documentation/UMLDiagrams/IMG/deployment.png)
 
