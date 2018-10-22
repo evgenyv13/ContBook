@@ -58,6 +58,8 @@
 
 ### 4. Диаграмма состояний<a name="4"></a>
 
+Диагаммы состояний более подробно расписаны в следующем документе: [диаграммы состояний](https://github.com/evgenyv13/ContBook/blob/master/docs/Project%20Documentation/UMLDiagrams/IMG/State/README.md)
+
 ### 5. Диаграмма классов<a name="5"></a>
 
 ![Class](https://github.com/evgenyv13/ContBook/blob/master/docs/Project%20Documentation/UMLDiagrams/IMG/classDiagram.png)
