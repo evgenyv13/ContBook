@@ -82,7 +82,7 @@
 
 <a name="7"></a>
 ### 7. Представление результатов
-### Test Results: ([Ru](https://github.com/evgenyv13/ContBook/blob/master/docs/Project%20Documentation/Tests/TestResults.md))
+Результаты тестирования представлены в ([таблице](https://github.com/evgenyv13/ContBook/blob/master/docs/Project%20Documentation/Tests/TestResults.md))
 
 <a name="8"></a>
 ### 8. Выводы
